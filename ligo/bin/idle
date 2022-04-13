@@ -1,5 +1,0 @@
-#!/home/jovyan/homework/hw05-stephaniefan06/ligo/bin/python2.7
-
-from idlelib.PyShell import main
-if __name__ == '__main__':
-    main()
