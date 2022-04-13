@@ -1,0 +1,25 @@
+==> 2022-04-13 07:11:22 <==
+# cmd: /srv/conda/bin/conda create --prefix=ligo python=2.7
+# conda version: 4.9.2
++conda-forge/linux-64::_libgcc_mutex-0.1-conda_forge
++conda-forge/linux-64::_openmp_mutex-4.5-1_gnu
++conda-forge/linux-64::ca-certificates-2021.10.8-ha878542_0
++conda-forge/linux-64::certifi-2019.11.28-py27h8c360ce_1
++conda-forge/linux-64::ld_impl_linux-64-2.36.1-hea4e1c9_2
++conda-forge/linux-64::libffi-3.2.1-he1b5a44_1007
++conda-forge/linux-64::libgcc-ng-11.2.0-h1d223b6_15
++conda-forge/linux-64::libgomp-11.2.0-h1d223b6_15
++conda-forge/linux-64::libstdcxx-ng-11.2.0-he4da1e4_15
++conda-forge/linux-64::libzlib-1.2.11-h166bdaf_1014
++conda-forge/linux-64::ncurses-6.3-h27087fc_1
++conda-forge/linux-64::openssl-1.1.1n-h166bdaf_0
++conda-forge/linux-64::python-2.7.15-h5a48372_1011_cpython
++conda-forge/linux-64::python_abi-2.7-1_cp27mu
++conda-forge/linux-64::readline-8.1-h46c0cb4_0
++conda-forge/linux-64::setuptools-44.0.0-py27_0
++conda-forge/linux-64::sqlite-3.38.2-h4ff8645_0
++conda-forge/linux-64::tk-8.6.12-h27826a3_0
++conda-forge/linux-64::zlib-1.2.11-h166bdaf_1014
++conda-forge/noarch::pip-20.1.1-pyh9f0ad1d_0
++conda-forge/noarch::wheel-0.37.1-pyhd8ed1ab_0
+# update specs: ['python=2.7']
