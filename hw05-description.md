@@ -81,3 +81,7 @@ The Binder documentation explains how to achieve both of these goals.
 You _must_ test that the binder actually works and that your notebook can run to completion in the  Binder, just like the original LIGO binder did, as the instructors will use the Binder links to test your work and look at your repo.
 
 **Tag:** at this stage, add a tag called `binder`.
+
+```python
+
+```
